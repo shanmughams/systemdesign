@@ -1,0 +1,15 @@
+1.spring basics
+2.spring boot
+3.  Java 8 features
+4.  Java 8 streams 
+5.  Using Java streams write a program
+6.  Spring annotation 
+7.  Explain some spring boot annotation 
+8.  Spring security basics
+9 .Redis cache
+10. Any cloud technology currently using in any of your projects
+11.  Sql query basics
+12.  Spring MVC basics
+13. Write Sql query find average or some thing related with joins
+14. Junit
+15. Microservices
